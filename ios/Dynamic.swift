@@ -1,0 +1,26 @@
+import UIKit
+import Foundation
+import Lottie
+
+@objc class Dynamic: NSObject {
+
+  @objc func createAnimationView(rootView: UIView, lottieName: String) -> AnimationView {
+    let animationView = AnimationView(name: lottieName)
+    animationView.frame = rootView.frame
+    animationView.center = rootView.center
+    if(rootView.traitCollection.userInterfaceStyle == .dark) {
+      animationView.backgroundColor = UIColor.black;
+    } else {
+      animationView.backgroundColor = UIColor.white
+    };
+    return animationView;
+  }
+
+  @objc func play(animationView: AnimationView) {
+    animationView.play(
+      completion: { (success) in
+        RNSplashScreen.setAnimationFinished(true)
+      }
+    );
+  }
+}

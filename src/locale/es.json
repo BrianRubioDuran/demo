@@ -1,0 +1,52 @@
+{
+  "translation": {
+    "common": {
+      "hello": "Hola",
+      "spanish": "Español",
+      "english": "Ingles",
+      "next": "Siguiente",
+      "start": "Comencemos",
+      "loading": "Ya casi terminamos...",
+      "save": "Guardar"
+    },
+    "register": {
+      "user": "Usuario",
+      "password": "Contraseña",
+      "confirm": "Confirmar contraseña"
+    },
+    "biometrics": {
+      "hidden": "Balance oculto",
+      "show": "Mostrar balance",
+      "hide": "Ocultar balance"
+    },
+    "drawer": {
+      "about": "Acerca de Soevii",
+      "logout": "Cerrar sesión"
+    },
+    "copilot": {
+      "labels": {
+        "finish": "Finalizar",
+        "next": "Siguiente",
+        "previous": "Anterior",
+        "skip": "Saltar"
+      },
+      "zone1": "Bienvenido al demo de Soevii",
+      "zone2": "Puedes abrir el menú lateral desde aquí"
+    },
+    "tabs": {
+      "home": "Inicio",
+      "profile": "Perfil"
+    },
+    "introduction": {
+      "select": "Selecciona un lenguaje",
+      "part1": "Convertimos problemáticas e ideas de negocio en diseños de software que resuelvan problemas o generen nuevas fuentes de ingreso.",
+      "part2": "Aplicaciones móviles que te pondrán en contacto con tus clientes, proveedores y tus colaboradores."
+    },
+    "login": {
+      "email": "Correo",
+      "password": "Contraseña",
+      "signIn": "Iniciar sesión",
+      "signUp": "Registrate"
+    }
+  }
+}

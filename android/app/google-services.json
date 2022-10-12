@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63189119832",
+    "project_id": "soevii-demo",
+    "storage_bucket": "soevii-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63189119832:android:64905725b3806a115ceb2d",
+        "android_client_info": {
+          "package_name": "com.soeviidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63189119832-ia1prqak1cqi2cs2k3eh39i4r7inopca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soeviidemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "63189119832-rlqi874jbub6uflu6t3ipbcctnjusev0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qbX5OMkoLKglajt5gKZEpzz2JOz4W_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63189119832-rlqi874jbub6uflu6t3ipbcctnjusev0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

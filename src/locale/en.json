@@ -1,0 +1,51 @@
+{
+  "translation": {
+    "common": {
+      "spanish": "Spanish",
+      "english": "English",
+      "next": "Next",
+      "start": "Let's start",
+      "loading": "We are going to finish soon...",
+      "save": "Save"
+    },
+    "register": {
+      "user": "User",
+      "password": "Password",
+      "confirm": "Confirm password"
+    },
+    "biometrics": {
+      "hidden": "Hidden balance",
+      "show": "Show balance",
+      "hide": "Hide balance"
+    },
+    "drawer": {
+      "about": "About us",
+      "logout": "Logout"
+    },
+    "copilot": {
+      "labels": {
+        "finish": "Finish",
+        "next": "Next",
+        "previous": "Previous",
+        "skip": "Skip"
+      },
+      "zone1": "Welcome to the Soevii demo",
+      "zone2": "You can open the side menu from here"
+    },
+    "tabs": {
+      "home": "Home",
+      "profile": "Profile"
+    },
+    "introduction": {
+      "select": "Select a language",
+      "part1": "We turn problems and business ideas into software designs that solve problems or generate new incomes.",
+      "part2": "Mobile applications will put you in contact with your customers, suppliers and your workers"
+    },
+    "login": {
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign in",
+      "signUp": "Sign up"
+    }
+  }
+}
